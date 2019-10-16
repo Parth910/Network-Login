@@ -13,7 +13,7 @@ Automates login for the LNMIIT Login Portal
 It can be easily concluded from the script that none of your details are being sent outside your the LNMIIT Login Portal. The script simply puts your login ID and password into a browser - the same thing you would do manually.
 
 ---   
-### For  users:
+### For  Users:
 There's more for macOS users. Turn this .py file into an app using Script Editor. Here's what you can do:
 
 1. Move the login.py file to Macintosh HD (/).
